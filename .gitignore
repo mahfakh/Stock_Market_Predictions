@@ -1,0 +1,30 @@
+# Environnement et clés
+.env
+.env.*
+
+# Système et IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pkl
+*.csv
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Astronomer & Airflow locaux
+airflow_settings.yaml
+airflow-webserver.pid
+webserver_config.py
+airflow.cfg
+airflow.db
+astro
+.venv/
+env/
+venv/

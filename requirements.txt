@@ -1,0 +1,7 @@
+# Astro Runtime dependencies: https://www.astronomer.io/docs/astro/runtime-image-architecture#provider-packages
+yfinance>=0.2.40
+pandas>=2.0.0
+ta>=0.11.0
+scikit-learn>=1.4.0
+joblib>=1.3.0
+xgboost>=2.0.0
